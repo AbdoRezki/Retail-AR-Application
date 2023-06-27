@@ -18,7 +18,7 @@ These instructions will help you get a copy of the project up and running on you
 ### Installing
 
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/ar-furniture-placement.git
+git clone https://github.com/AbdoRezki/Retail-AR-Application.git
 
 2. Open Unity and select "Open Project." Browse to the cloned repository's folder and select it to open the project.
 
