@@ -38,11 +38,7 @@ git clone https://github.com/AbdoRezki/Retail-AR-Application.git
 
 3. Select the desired furniture object from the available options (chair, couch, or table) using the interface on the phone.
 
-4. Use intuitive gestures (e.g., tapping, dragging, or pinching) to position and rotate the virtual furniture in the AR environment.
-
-5. Once you are satisfied with the placement, interact with the object as desired (e.g., sit on the chair or move objects around the table).
-
-6. To remove the furniture object, simply tap on the "Remove" button or gesture.
+4. To remove the furniture object, simply tap on the "Destroy" button or gesture.
 
 ## Contributing
 
