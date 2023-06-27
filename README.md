@@ -1,5 +1,7 @@
 # AR Furniture Placement Project
 
+![Screenshot](Assets/sim.jpg)
+
 This project allows users to place virtual furniture objects, such as a chair, a couch, or a table, in an augmented reality (AR) environment. The furniture objects are displayed on the user's phone, superimposed on the real-world view captured by the device's camera.
 
 ## Getting Started
