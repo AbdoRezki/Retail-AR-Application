@@ -10,7 +10,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Prerequisites
 
-- Unity 3D (version XYZ or higher)
+- Unity 3D
 - AR Foundation package
 - ARCore (for Android) or ARKit (for iOS) support
 - Android or iOS device with AR capabilities
